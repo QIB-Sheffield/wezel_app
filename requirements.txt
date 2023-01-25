@@ -1,0 +1,8 @@
+# Required package
+wezel
+
+# These are optional packages.
+# Only include them if you actually use them in your application.
+dipy
+SimpleITK 
+itk-elastix
